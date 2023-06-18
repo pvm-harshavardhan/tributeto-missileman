@@ -1,0 +1,59 @@
+body{
+    background-color: #f4ddc2;
+}
+#main{
+    background-color: rgb(201, 163, 116);;
+    width: 80%;
+    margin: auto;
+    border: 3px solid black;
+}
+#header{
+    display: block;
+    font-size: 1.3rem;
+    text-align: center;
+}
+#img-div{
+    margin: auto;  
+    text-align: center;
+    display: block;
+}
+#image{
+    max-width: 100%
+}
+figcaption{
+    font-size: 1.2rem;
+}
+img{
+    width: 80%;
+    display: block;
+    align-items: center;
+    margin: auto;
+}
+li{
+    font-size: 1.2rem;
+}
+h3{
+    margin: 2%;
+}
+ul{
+    margin-top: 0;
+    padding-right: 2%;
+}
+blockquote{
+    text-align: center;
+}
+blockquote p{
+    font-size: 1.2rem;
+}
+blockquote cite{
+    font-size: 1.2rem;
+}
+hr{
+    width: 95%;
+    height: 1.5px;
+    border: 0;
+    background-color: brown;
+}
+#link{
+    text-align: center;
+}
